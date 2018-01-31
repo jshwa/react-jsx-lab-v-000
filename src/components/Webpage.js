@@ -4,7 +4,7 @@ import FillerText from './FillerText'
 class Webpage extends React.Component{
   render(){
     return (
-      <title>The Worlds coolest webpage</title>
+      <title>The World's coolest webpage</title>
       <FillerText />
       <FillerText />
     )
